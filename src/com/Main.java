@@ -10,5 +10,6 @@ public class Main {
         System.out.println("234567");
         System.out.println("9999");
         System.out.println("345678");
+        System.out.printlin("988);
     }
 }
