@@ -8,5 +8,7 @@ package com;
 public class Main {
     public static void main(String[] args) {
         System.out.println("234567");
+        System.out.println("9999");
+        System.out.printlin("988);
     }
 }
